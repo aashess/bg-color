@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # BG-Color Project
 
 BG-Color is an interactive web application that allows users to dynamically change the background color of a webpage. This project is built using [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/), providing a modern and responsive user experience.
