@@ -1,6 +1,4 @@
-Here’s a professional and detailed `README.md` file for your GitHub repository **bg-color**. This README provides an overview of the project, how to set it up, and how to use it. You can copy and paste this into your repository.
 
----
 
 # **BG-Color Project**
 
